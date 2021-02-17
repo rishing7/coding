@@ -1,5 +1,8 @@
 *.exe
 *.o
 
-go/.idea
+go/.idea/*
+*.iml
+*.xml
+go/.gitignore
 
