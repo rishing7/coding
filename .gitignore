@@ -6,4 +6,6 @@
 /go/.idea/
 /python/.idea/
 */.idea/*
+*.o
+
 
